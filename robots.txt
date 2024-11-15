@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://fastclaime.github.io/5000-FREE-monopoly-go-dice-generator-2024-Dice-Rolls-Links-/sitemap_index.xml
